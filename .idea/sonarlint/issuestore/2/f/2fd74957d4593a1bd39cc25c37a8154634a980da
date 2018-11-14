@@ -1,0 +1,15 @@
+
+Jsquid:S1481")Remove this unused "all2" local variable.(ðÀÂÄùÿÿÿÿ8ž…‡–ë,
+hsquid:UselessImportCheck":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8°£‹–ë,
+hsquid:S1192"GDefine a constant instead of duplicating this literal "France" 5 times.(‘¤Þ„þÿÿÿÿ8ŸÚ½•ë,
+Xsquid:S1854"7Remove this useless assignment to local variable "one".(ØªàÛÿÿÿÿÿ8ù¨î•ë,
+Ssquid:S1854"7Remove this useless assignment to local variable "all".(ŸÐÍ“8ù¨î•ë,
+Ysquid:S1854"8Remove this useless assignment to local variable "all2".(ðÀÂÄùÿÿÿÿ8ž…‡–ë,
+Ysquid:S1854"8Remove this useless assignment to local variable "joe2".(ÅÎ€ƒùÿÿÿÿ8ž…‡–ë,
+jsquid:S1192"NDefine a constant instead of duplicating this literal "{name: 'Joe'}" 9 times.(ŸÐÍ“8Çìø•ë,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎÓóŸ8ãÍå–ë,
+Jsquid:S1481")Remove this unused "joe2" local variable.(ÅÎ€ƒùÿÿÿÿ8ž…‡–ë,
+Dsquid:S1481"(Remove this unused "all" local variable.(ŸÐÍ“8ù¨î•ë,
+Isquid:S1481"(Remove this unused "one" local variable.(ØªàÛÿÿÿÿÿ8ù¨î•ë,
+gsquid:S1192"FDefine a constant instead of duplicating this literal "Paris" 3 times.(‘¤Þ„þÿÿÿÿ8ŸÚ½•ë,
+Isquid:S1604"(Make this anonymous inner class a lambda(Œ†¨ûÿÿÿÿÿ8¼ù‰–ë,

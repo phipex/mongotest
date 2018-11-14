@@ -1,0 +1,46 @@
+
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(áâĞ¶8ô—Ùì,
+Usquid:S11351"2Complete the task associated to this TODO comment.(Ùú€¶ùÿÿÿÿ8ô—Ùì,
+dsquid:UselessImportCheck"4Remove this unused import 'org.jongo.QueryModifier'.(“èÿşÿÿÿÿ8ô—Ùì,
+Ysquid:S1481y"6Remove this unused "nuevaBalotaResult" local variable.(¨Ù—Æşÿÿÿÿ8ô—Ùì,
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ŒÇ‚ùÿÿÿÿ8ô—Ùì,
+nsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(Ó›ãüÿÿÿÿ8ô—Ùì,
+Nsquid:S2093Ÿ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8·ßÂÙì,
+Gsquid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ßÂÙì,
+Isquid:S1481`"+Remove this unused "retval" local variable.(÷ßµç8ô—Ùì,
+isquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(îó—×8ô—Ùì,
+isquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(Ô‰£Å8ô—Ùì,
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(£Ü”Ì8ô—Ùì,
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ßÕœ8ô—Ùì,
+Tsquid:S1481t"6Remove this unused "nuevaBalotaResult" local variable.(‡Ÿ ¼8ô—Ùì,
+Š"squid:ClassVariableVisibilityCheck´"TMake idCarton a static final constant or non-public and provide accessors if needed.(Ê±å¢8ô—Ùì,
+Xsquid:S1854`":Remove this useless assignment to local variable "retval".(÷ßµç8ô—Ùì,
+\squid:UselessImportCheck	",Remove this unused import 'org.jongo.Jongo'.(Õ”ëğúÿÿÿÿ8ô—Ùì,
+]squid:UselessImportCheck"2Remove this unused import 'org.jongo.MongoCursor'.(»Ò‹8ô—Ùì,
+fsquid:UselessImportCheck
+"6Remove this unused import 'org.jongo.MongoCollection'.(˜øş—üÿÿÿÿ8ô—Ùì,
+Š"squid:ClassVariableVisibilityCheck³"TMake idPremio a static final constant or non-public and provide accessors if needed.(ıŞ¢ˆ8ô—Ùì,
+\
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Ğïí¤ÿÿÿÿÿ8ô—Ùì,
+Š"squid:ClassVariableVisibilityCheckµ"TMake idFigura a static final constant or non-public and provide accessors if needed.(ğğ¯Œ8ô—Ùì,
+dsquid:UselessImportCheck"4Remove this unused import 'com.mongodb.MongoClient'.(´§ø»ıÿÿÿÿ8ô—Ùì,
+nsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(›©³Üúÿÿÿÿ8ô—Ùì,
+Nsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8şñºÙì,
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ØÑÌ8ô—Ùì,
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(´˜÷²úÿÿÿÿ8ô—Ùì,
+[
+squid:S106f"9Replace this use of System.out or System.err by a logger.(µ«£ïøÿÿÿÿ8ô—Ùì,
+nsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(›©³Üúÿÿÿÿ8ô—Ùì,
+hsquid:S1854y"ERemove this useless assignment to local variable "nuevaBalotaResult".(¨Ù—Æşÿÿÿÿ8ô—Ùì,
+Fsquid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô—Ùì,
+V
+squid:S106P"9Replace this use of System.out or System.err by a logger.(×°“º8ô—Ùì,
+csquid:S1854t"ERemove this useless assignment to local variable "nuevaBalotaResult".(‡Ÿ ¼8ô—Ùì,
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°ØÀÙì,
+gsquid:UselessImportCheck"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ8ô—Ùì,
+V
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(óÃ¯8ô—Ùì,

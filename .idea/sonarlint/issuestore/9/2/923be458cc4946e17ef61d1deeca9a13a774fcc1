@@ -1,0 +1,10 @@
+
+‡"squid:ClassVariableVisibilityCheck"OMake _id a static final constant or non-public and provide accessors if needed.(¾êàãúÿÿÿÿ8­»ğ•ë,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ··ğ8ŠÍİ–ë,
+ƒ"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ÂÚğ•ë,
+‚"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8Ôöğ•ë,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ıêôÿÿÿÿÿ8Ûê•ë,
+psquid:S00116"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾êàãúÿÿÿÿ8·†â•ë,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ··ğ8ŠÍİ–ë,
+Š"squid:ClassVariableVisibilityCheck"RMake gender a static final constant or non-public and provide accessors if needed.(×¾“æùÿÿÿÿ8¿”ñ•ë,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¨–8ÕïŞ–ë,
